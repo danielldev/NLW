@@ -89,6 +89,9 @@ ul {
     display: flex;
     gap: 16px;
 }
+p {
+    margin-bottom: 7px;
+}
 
 .games-list img {
     border-radius: 8px;
